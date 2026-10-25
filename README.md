@@ -74,4 +74,6 @@ Graphic, web, 3D design and multimedia content production across freelance and a
 
 Junior QA Tester role in Stockholm or remote. 
 
+---
+
 _I learn, adapt, and evolve alongside technology._
