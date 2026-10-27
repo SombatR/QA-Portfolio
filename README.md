@@ -9,10 +9,11 @@ Stockholm, Sweden · [[email](mailto:vidal.rousso@gmail.com)] · [[LinkedIn URL]
 
 - **Natural tester mind** — meticulous and precise by nature. My **law degree** confirmed and developed this mindset. I verify wording, coverage, and edge cases as second nature. 
 - **Technical foundation** — **BSc in Informatics**, plus coursework in JavaScript, Python, and Information Security
+- **Design & UX eye** — 15+ years in digital design. I identify visual bugs and usability issues that can slip through a purely technical lens.
 - **Self-starter** — installed and ran **containerized local AI** at Keeada on my own initiative, building creative and coding workflows around it
 - **Detail-oriented and highly organized** — structured test documentation is where I do my best work
 - **Fluent English** — first language, plus a completed Written Proficiency course
-- **Technical writing** — my preferred style: no embellishments, precise, verified. I write like I think.
+- **Technical writing** — my preferred style: no embellishments, precise, verified, highly structured. I write like I think.
 - **Growing into automation** — actively learning Selenium and Cucumber, interested in evolving into automated testing and AI-driven QA workflows
 
 ---
