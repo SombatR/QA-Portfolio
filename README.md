@@ -67,7 +67,7 @@ _Files are in this repository — see folder listing._
 **Keeada** · Mar 2026 – Present
 Operating AI systems across platforms for multimedia production; refining prompting techniques and researching practical applications. Independently researched and implemented secure containerised local AI environments, designing workflows for creative and coding tasks.
 
-**Digital Design** · Freelance & Studio Roles · 2002 – Present
+**Digital Design** · Freelance & Studio Roles · 2015 – Present
 Graphic, web, 3D design and multimedia content production across freelance and agency settings. Includes Venice Biennale 2018 and pro bono projects. Client-facing work requiring precision, requirement interpretation, and delivery against specification.
 
 ## Looking For
